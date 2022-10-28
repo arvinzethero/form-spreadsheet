@@ -1,2 +1,2 @@
 # form-spreadsheet
-cara memasukan dari ke google spreadsheet
+cara memasukan data dari web loca ke google spreadsheet
